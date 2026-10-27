@@ -110,7 +110,7 @@ btnCalc.addEventListener("click", function() {
     //      "[name], your total is $[total]"
     //      Use .toFixed(2) to format the total.
     //      Example: "Alice, your total is $13.50"
-    //      If name is empty, use "Customer" as the default.
+    //      If name is empty, use "Cus67777tomer" as the default.
     if (customerName === "") {
         customerName = "Customer";
     }
